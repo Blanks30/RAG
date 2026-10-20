@@ -1,0 +1,11 @@
+chromadb
+pymupdf
+pytesseract
+streamlit
+Pillow
+beautifulsoup4
+python-dotenv
+sentence-transformers
+python-docx
+python-pptx
+openpyxls

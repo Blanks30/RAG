@@ -1,0 +1,26 @@
+# Secrets and local environment
+.env
+.venv/
+chroma_db/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Backups
+app_before_*.py
+
+# Temporary test generators and generated test files
+create_*_test.py
+*_test.pdf
+*_test.docx
+*_test.pptx
+*_test.xlsx
+*_test.csv
+*_test.json
+*_test.xml
+*_test.md
+*_test.txt
+*_test.png
+scanned_page.png
+create_sample_pdf.py
