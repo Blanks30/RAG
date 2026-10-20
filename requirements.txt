@@ -8,4 +8,4 @@ python-dotenv
 sentence-transformers
 python-docx
 python-pptx
-openpyxls
+openpyxl
